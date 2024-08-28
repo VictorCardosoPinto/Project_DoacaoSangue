@@ -1,0 +1,65 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+td {
+  border-top: 2px solid #000;
+  margin: 0px;
+  border-collapse: collapse;
+}
+
+.titulo {
+  color: red
+}
+
+.containerSangue {
+  display: block;
+  align-items: center;
+}
+
+.imagem {
+  width: 500px;
+  border-radius: 1rem;
+}
+
+img {
+
+  /* border-radius: 1rem;
+    width: 500px;
+    display: block;
+    margin-right: auto;
+    margin-bottom: 2rem; */
+}
+
+h3 {
+  color: #001f5f;
+}
+
+thead {
+  display: flexbox;
+  align-items: center;
+  height: 1rem;
+}
+
+tbody {
+  text-align: center;
+  width: 2rem;
+  height: 1rem;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #000;
+  margin: 20px 0;
+}
+
+h1 {
+  color: red;
+}
+
+
+.headerDoador{
+  color: rgba(253, 25, 25, 0.822);
+}
